@@ -1,0 +1,8 @@
+C:\Users\Mraza\source\repos\BufferLibrary\BufferLibrary\bin\Debug\netcoreapp3.1\BufferLibrary.deps.json
+C:\Users\Mraza\source\repos\BufferLibrary\BufferLibrary\bin\Debug\netcoreapp3.1\BufferLibrary.dll
+C:\Users\Mraza\source\repos\BufferLibrary\BufferLibrary\bin\Debug\netcoreapp3.1\BufferLibrary.pdb
+C:\Users\Mraza\source\repos\BufferLibrary\BufferLibrary\obj\Debug\netcoreapp3.1\BufferLibrary.AssemblyInfoInputs.cache
+C:\Users\Mraza\source\repos\BufferLibrary\BufferLibrary\obj\Debug\netcoreapp3.1\BufferLibrary.AssemblyInfo.cs
+C:\Users\Mraza\source\repos\BufferLibrary\BufferLibrary\obj\Debug\netcoreapp3.1\BufferLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mraza\source\repos\BufferLibrary\BufferLibrary\obj\Debug\netcoreapp3.1\BufferLibrary.dll
+C:\Users\Mraza\source\repos\BufferLibrary\BufferLibrary\obj\Debug\netcoreapp3.1\BufferLibrary.pdb

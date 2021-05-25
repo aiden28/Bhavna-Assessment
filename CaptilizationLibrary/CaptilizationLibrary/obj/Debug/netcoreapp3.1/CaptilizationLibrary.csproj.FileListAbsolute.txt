@@ -1,0 +1,9 @@
+C:\Users\Mraza\source\repos\CaptilizationLibrary\CaptilizationLibrary\bin\Debug\netcoreapp3.1\CaptilizationLibrary.deps.json
+C:\Users\Mraza\source\repos\CaptilizationLibrary\CaptilizationLibrary\bin\Debug\netcoreapp3.1\CaptilizationLibrary.dll
+C:\Users\Mraza\source\repos\CaptilizationLibrary\CaptilizationLibrary\bin\Debug\netcoreapp3.1\CaptilizationLibrary.pdb
+C:\Users\Mraza\source\repos\CaptilizationLibrary\CaptilizationLibrary\obj\Debug\netcoreapp3.1\CaptilizationLibrary.csprojAssemblyReference.cache
+C:\Users\Mraza\source\repos\CaptilizationLibrary\CaptilizationLibrary\obj\Debug\netcoreapp3.1\CaptilizationLibrary.AssemblyInfoInputs.cache
+C:\Users\Mraza\source\repos\CaptilizationLibrary\CaptilizationLibrary\obj\Debug\netcoreapp3.1\CaptilizationLibrary.AssemblyInfo.cs
+C:\Users\Mraza\source\repos\CaptilizationLibrary\CaptilizationLibrary\obj\Debug\netcoreapp3.1\CaptilizationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mraza\source\repos\CaptilizationLibrary\CaptilizationLibrary\obj\Debug\netcoreapp3.1\CaptilizationLibrary.dll
+C:\Users\Mraza\source\repos\CaptilizationLibrary\CaptilizationLibrary\obj\Debug\netcoreapp3.1\CaptilizationLibrary.pdb

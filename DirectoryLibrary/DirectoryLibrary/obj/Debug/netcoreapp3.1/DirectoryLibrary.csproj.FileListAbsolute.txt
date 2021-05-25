@@ -1,0 +1,8 @@
+C:\Users\Mraza\source\repos\DirectoryLibrary\DirectoryLibrary\bin\Debug\netcoreapp3.1\DirectoryLibrary.deps.json
+C:\Users\Mraza\source\repos\DirectoryLibrary\DirectoryLibrary\bin\Debug\netcoreapp3.1\DirectoryLibrary.dll
+C:\Users\Mraza\source\repos\DirectoryLibrary\DirectoryLibrary\bin\Debug\netcoreapp3.1\DirectoryLibrary.pdb
+C:\Users\Mraza\source\repos\DirectoryLibrary\DirectoryLibrary\obj\Debug\netcoreapp3.1\DirectoryLibrary.AssemblyInfoInputs.cache
+C:\Users\Mraza\source\repos\DirectoryLibrary\DirectoryLibrary\obj\Debug\netcoreapp3.1\DirectoryLibrary.AssemblyInfo.cs
+C:\Users\Mraza\source\repos\DirectoryLibrary\DirectoryLibrary\obj\Debug\netcoreapp3.1\DirectoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mraza\source\repos\DirectoryLibrary\DirectoryLibrary\obj\Debug\netcoreapp3.1\DirectoryLibrary.dll
+C:\Users\Mraza\source\repos\DirectoryLibrary\DirectoryLibrary\obj\Debug\netcoreapp3.1\DirectoryLibrary.pdb

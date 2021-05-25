@@ -1,0 +1,8 @@
+C:\Users\Mraza\source\repos\DateTimeLibrary\DateTimeLibrary\bin\Debug\netcoreapp3.1\DateTimeLibrary.deps.json
+C:\Users\Mraza\source\repos\DateTimeLibrary\DateTimeLibrary\bin\Debug\netcoreapp3.1\DateTimeLibrary.dll
+C:\Users\Mraza\source\repos\DateTimeLibrary\DateTimeLibrary\bin\Debug\netcoreapp3.1\DateTimeLibrary.pdb
+C:\Users\Mraza\source\repos\DateTimeLibrary\DateTimeLibrary\obj\Debug\netcoreapp3.1\DateTimeLibrary.AssemblyInfoInputs.cache
+C:\Users\Mraza\source\repos\DateTimeLibrary\DateTimeLibrary\obj\Debug\netcoreapp3.1\DateTimeLibrary.AssemblyInfo.cs
+C:\Users\Mraza\source\repos\DateTimeLibrary\DateTimeLibrary\obj\Debug\netcoreapp3.1\DateTimeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mraza\source\repos\DateTimeLibrary\DateTimeLibrary\obj\Debug\netcoreapp3.1\DateTimeLibrary.dll
+C:\Users\Mraza\source\repos\DateTimeLibrary\DateTimeLibrary\obj\Debug\netcoreapp3.1\DateTimeLibrary.pdb
